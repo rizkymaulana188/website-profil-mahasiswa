@@ -18,7 +18,7 @@ menggunakan HTML, CSS, dan JavaScript.
 
 ## Screenshot Website
 
-![Tampilan Website](Screenshot 2026-11-11 201954.png)
+![Tampilan Website](screenshot.png)
 
 ## Fitur
 1. Menampilkan profil mahasiswa.
